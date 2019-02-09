@@ -8,6 +8,7 @@ public class ListCollection {
 		List list=new ArrayList();
 		list.add("srinu");
 		list.add("samba");
+		list.add("eswar");
 	}
 
 }
